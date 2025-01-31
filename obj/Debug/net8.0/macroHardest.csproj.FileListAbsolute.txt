@@ -1,0 +1,14 @@
+C:\Users\oddy-\source\repos\macroHardest\bin\Debug\net8.0\macroHardest.exe
+C:\Users\oddy-\source\repos\macroHardest\bin\Debug\net8.0\macroHardest.deps.json
+C:\Users\oddy-\source\repos\macroHardest\bin\Debug\net8.0\macroHardest.runtimeconfig.json
+C:\Users\oddy-\source\repos\macroHardest\bin\Debug\net8.0\macroHardest.dll
+C:\Users\oddy-\source\repos\macroHardest\bin\Debug\net8.0\macroHardest.pdb
+C:\Users\oddy-\source\repos\macroHardest\obj\Debug\net8.0\macroHardest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oddy-\source\repos\macroHardest\obj\Debug\net8.0\macroHardest.AssemblyInfoInputs.cache
+C:\Users\oddy-\source\repos\macroHardest\obj\Debug\net8.0\macroHardest.AssemblyInfo.cs
+C:\Users\oddy-\source\repos\macroHardest\obj\Debug\net8.0\macroHardest.csproj.CoreCompileInputs.cache
+C:\Users\oddy-\source\repos\macroHardest\obj\Debug\net8.0\macroHardest.dll
+C:\Users\oddy-\source\repos\macroHardest\obj\Debug\net8.0\refint\macroHardest.dll
+C:\Users\oddy-\source\repos\macroHardest\obj\Debug\net8.0\macroHardest.pdb
+C:\Users\oddy-\source\repos\macroHardest\obj\Debug\net8.0\macroHardest.genruntimeconfig.cache
+C:\Users\oddy-\source\repos\macroHardest\obj\Debug\net8.0\ref\macroHardest.dll
